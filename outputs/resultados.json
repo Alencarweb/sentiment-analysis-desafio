@@ -1,0 +1,9 @@
+[
+    {
+        "sentence": "Eu amo este produto!",
+        "analysis": {
+            "sentiment": "positive",
+            "confidenceScores": {"positive": 0.99, "neutral": 0.01, "negative": 0.00}
+        }
+    }
+]
